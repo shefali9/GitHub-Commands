@@ -1,0 +1,35 @@
+After installation 
+1.  git --version 
+for 1st time in system set username cmd 
+2.  git config --global user.name "shefali"
+For 1st time in system set useremail cmd 
+3.  git config --global user.email "shefali.s@mishainfotech.com"
+For edit Usernme & UserEmail 
+4.  git config --global --edit (use this command direct change in config file after changes are done user enter esc (:+WQ) then you exit from that file 
+5.  mkdir floderName(eg LetsLearnGit)
+6.  cd FloderName/
+7.  git init (for intinalize the project on git or create a new repository)
+8.  git status (for knowing for files status)
+9.  git add fileName  (to add the file on git)
+10. git status (to check the file status for staging area)
+11. git commit -m "changes name" (for commint file)
+12. git log (for check the all commits)
+13. cmd+K (Clear the cmd)
+14. git checkout hashCode(enter any paricular commit)
+15. git checkout master ( return back to that file )
+16. git branch (showing the branch name)
+17. git brach branchName (for create New branch)
+18. git branch (to check all branch names)
+19. git checkout BranchName( to switch the branch)
+20. git checkout -b branchName/Functionally (directly switch to branch and checkout on that branch)
+21. git merge branch/functionalty(for merging with sub branch)
+22. git merge branch (for merging with master branch)
+23. git touch .gitignore (to ignore the file from git)
+24. secretkey.txt into file 
+25. gitignore 
+
+
+
+
+
+
